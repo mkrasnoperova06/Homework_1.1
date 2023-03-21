@@ -7,10 +7,13 @@ public class Main {
         if (x > 1)
         {
         }
-        else
-        {
+        else {
             x = 0;
         }
+
+
+        float bggggg = 924879285;
+
 
         System.out.print("kbksjb");
 
