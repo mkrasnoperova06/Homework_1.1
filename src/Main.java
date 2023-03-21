@@ -3,9 +3,9 @@ public class Main {
 
         int x = 7;
 
+           boolean ggg = true;
         if (x > 1)
         {
-            ggg = true;
         }
         else
         {
