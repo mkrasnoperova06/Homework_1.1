@@ -10,6 +10,9 @@ public class Main {
         else {
             x = 0;
         }
+        
+        
+        int fffff;
 
 
         float bggggg = 924879285;
