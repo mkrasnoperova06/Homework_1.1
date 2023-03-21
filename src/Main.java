@@ -3,8 +3,6 @@ public class Main {
 
         int x = 7;
 
-        boolean ggg = false;
-
         if (x > 1)
         {
             ggg = true;
@@ -13,6 +11,8 @@ public class Main {
         {
             x = 0;
         }
+
+        System.out.print("kbksjb");
 
         System.out.print(ggg);
     }
